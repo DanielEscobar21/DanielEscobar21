@@ -6,9 +6,9 @@ Full Stack Developer
 
 I've been Programming since 2018, I love my career and all about it. Making my way to be a Software Architect.
 
+* 🚥  24 Years Old
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [danesc21@gmail.com](mailto:danesc21@gmail.com)
-* 🧠  I'm learning Entity Framework, Advance PHP and Docker.
 * ⚡  Leader, dedicated, and in Constant Search of Solutions. ...and always learning
 
 ### Skills
