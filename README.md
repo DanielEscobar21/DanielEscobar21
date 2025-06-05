@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Escobar
 ===============================
 
-Full Stack Developer
+Full Stack Software Engineer
 --------------------
 
 Programming since 2018, I love my career and all about it.
